@@ -1,0 +1,11 @@
+---
+title: "Head‑to‑head comparison of clustering methods for heterogeneous data: a simulation‑driven benchmark"
+subtitle: "R lab based on the paper"
+author: "Alex"
+date: "`r format(Sys.time(), '%d %B %Y, %H:%M:%S')`"
+output:
+  html_document:
+    df_print: paged
+    toc: true
+    number_sections: true
+---
